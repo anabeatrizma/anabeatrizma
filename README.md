@@ -1,4 +1,4 @@
-# Oiee, seja bem vinda(o)! 👋
+# Oiee, seja bem vindo(a)! 👋
 
 Me chamo Ana Beatriz, tenho 18 anos e moro em São Paulo - SP.
 - Estudante de Ciência da Computação
