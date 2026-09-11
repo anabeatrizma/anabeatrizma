@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oiee, seja bem vinda(o)! 👋
 
-<!--
-**anabeatrizma/anabeatrizma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ana Beatriz, tenho 18 anos e moro em São Paulo - SP.
+- Estudante de Ciência da Computação
+- Computação em nuvem (AWS)
 
-Here are some ideas to get you started:
+## 🌱 O que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML e CSS.
+- Linguagem C
+- Redes de computadores
+- Sistemas operacionais
+- Lógica de programação
+
+## 💡 Sobre mim
+
+- 🔍 Curiosa, dedicada e motivada a aprender continuamente
+- 🧩 Gosto de pensamento analítico e resolução de problemas
+- 🔄 Alta capacidade de adaptação
+- 🗣️ Inglês intermediário (leitura e comunicação)
+
+## 🎯 Objetivo
+
+Estou em busca da minha primeira oportunidade como **Suporte Técnico Júnior** ou **Estagiária em TI**, para iniciar minha trajetória profissional e aplicar na prática o que venho aprendendo.
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/ana-beatriz-mourao-aleixo/
+- Email: biamouraoaleixo@gmail.com
